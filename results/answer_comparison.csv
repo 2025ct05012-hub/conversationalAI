@@ -1,0 +1,11 @@
+chunk_size_tokens,question,baseline_answer,rag_answer,rag_sources,baseline_correctness_1_to_5,rag_correctness_1_to_5,baseline_relevance_1_to_5,rag_relevance_1_to_5,baseline_grounding_1_to_5,rag_grounding_1_to_5,reviewer_notes
+500,Which ethical concerns in conversational AI are identified in the lecture?,"I don't have information about a specific lecture. However, in general, ethical concerns in conversational AI include issues such as bias, fairness, transparency, accountability, and user consent, as well as the potential for manipulation, deception, and harm to individuals and society.","The lecture identifies the following ethical concerns in conversational AI:
+
+1. Bias and fairness
+2. Ethical and regulatory constraints
+3. Harmful content
+4. Security and privacy
+5. Interpretability and transparency
+6. Copyright and intellectual property
+
+These concerns are mentioned in multiple chunks of the lecture, including [Lecture 11 - From Bias to Guardrails - Building Responsible Conversational AI (1).pdf p. 2] and [Lecture 13",Lecture 11 - From Bias to Guardrails - Building Responsible Conversational AI (1).pdf p. 3; Lecture 11 - From Bias to Guardrails - Building Responsible Conversational AI (1).pdf p. 2; Lecture 13 - SLMs  Agents.pdf p. 29; Lecture 13 - SLMs  Agents.pdf p. 17; Lecture 13 - SLMs  Agents.pdf p. 16,,,,,,,

@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the main definition introduced in this lecture?",
+    "expected_sources": ["lecture_01.pdf"],
+    "expected_pages": [2]
+  },
+  {
+    "question": "Which assumptions are required for the method?",
+    "expected_sources": [],
+    "expected_pages": []
+  }
+]

@@ -1,0 +1,55 @@
+chunk_size_tokens,method,question,top_k,latency_seconds,result_count,expected_labels_provided,hit_rate_at_k,precision_at_k,reciprocal_rank
+200,semantic_faiss,Which ethical concerns in conversational AI are identified in the lecture?,5,0.11402850000013132,5,True,1.0,0.4,1.0
+200,keyword_bm25,Which ethical concerns in conversational AI are identified in the lecture?,5,0.0014497000083792955,5,True,1.0,0.6,1.0
+200,semantic_faiss,"How does the lecture define bias, and how can it affect users with regional accents?",5,0.02179430000251159,5,True,1.0,1.0,1.0
+200,keyword_bm25,"How does the lecture define bias, and how can it affect users with regional accents?",5,0.0009741999965626746,5,True,1.0,0.4,1.0
+200,semantic_faiss,Why can a lack of transparency and interpretability reduce trust and accountability in AI systems?,5,0.023141300000133924,5,True,1.0,0.6,1.0
+200,keyword_bm25,Why can a lack of transparency and interpretability reduce trust and accountability in AI systems?,5,0.0010855000000447035,5,True,1.0,0.6,1.0
+200,semantic_faiss,Why are traditional classification metrics such as accuracy difficult to apply to generative language model outputs?,5,0.02731619999394752,5,True,1.0,0.6,1.0
+200,keyword_bm25,Why are traditional classification metrics such as accuracy difficult to apply to generative language model outputs?,5,0.0016453999996883795,5,True,1.0,0.2,1.0
+200,semantic_faiss,"Which evaluation approaches are presented, and how does human evaluation relate to automated evaluation?",5,0.029180099998484366,5,True,1.0,1.0,1.0
+200,keyword_bm25,"Which evaluation approaches are presented, and how does human evaluation relate to automated evaluation?",5,0.0016394999984186143,5,True,1.0,1.0,1.0
+200,semantic_faiss,Why might general benchmarks fail to measure performance for a specific LLM product use case?,5,0.02692459999525454,5,True,1.0,0.8,1.0
+200,keyword_bm25,Why might general benchmarks fail to measure performance for a specific LLM product use case?,5,0.0016354999970644712,5,True,1.0,0.4,1.0
+200,semantic_faiss,"What are small language models, and what kinds of tasks are they designed for?",5,0.024143100003129803,5,True,1.0,1.0,1.0
+200,keyword_bm25,"What are small language models, and what kinds of tasks are they designed for?",5,0.0017128000035881996,5,True,1.0,0.6,0.3333333333333333
+200,semantic_faiss,"What benefits of SLMs are described for limited-resource devices, privacy, customization, and cost?",5,0.02995599999849219,5,True,1.0,1.0,1.0
+200,keyword_bm25,"What benefits of SLMs are described for limited-resource devices, privacy, customization, and cost?",5,0.0016545000107726082,5,True,1.0,1.0,1.0
+200,semantic_faiss,"How do pruning, quantization, and knowledge distillation reduce or compress language models?",5,0.02712650000466965,5,True,1.0,0.8,1.0
+200,keyword_bm25,"How do pruning, quantization, and knowledge distillation reduce or compress language models?",5,0.0016434999997727573,5,True,1.0,1.0,1.0
+500,semantic_faiss,Which ethical concerns in conversational AI are identified in the lecture?,5,0.04686200000287499,5,True,1.0,0.4,1.0
+500,keyword_bm25,Which ethical concerns in conversational AI are identified in the lecture?,5,0.003365899989148602,5,True,1.0,0.8,1.0
+500,semantic_faiss,"How does the lecture define bias, and how can it affect users with regional accents?",5,0.05553830000280868,5,True,1.0,1.0,1.0
+500,keyword_bm25,"How does the lecture define bias, and how can it affect users with regional accents?",5,0.003708000003825873,5,True,1.0,0.4,1.0
+500,semantic_faiss,Why can a lack of transparency and interpretability reduce trust and accountability in AI systems?,5,0.040376900011324324,5,True,1.0,0.6,1.0
+500,keyword_bm25,Why can a lack of transparency and interpretability reduce trust and accountability in AI systems?,5,0.004455300004337914,5,True,1.0,0.8,1.0
+500,semantic_faiss,Why are traditional classification metrics such as accuracy difficult to apply to generative language model outputs?,5,0.04384630000276957,5,True,1.0,0.6,1.0
+500,keyword_bm25,Why are traditional classification metrics such as accuracy difficult to apply to generative language model outputs?,5,0.0028897999873152003,5,True,1.0,0.2,1.0
+500,semantic_faiss,"Which evaluation approaches are presented, and how does human evaluation relate to automated evaluation?",5,0.03015669999876991,5,True,1.0,1.0,1.0
+500,keyword_bm25,"Which evaluation approaches are presented, and how does human evaluation relate to automated evaluation?",5,0.0028869999950984493,5,True,1.0,1.0,1.0
+500,semantic_faiss,Why might general benchmarks fail to measure performance for a specific LLM product use case?,5,0.03088309998565819,5,True,1.0,0.8,1.0
+500,keyword_bm25,Why might general benchmarks fail to measure performance for a specific LLM product use case?,5,0.0031739999976707622,5,True,1.0,0.6,1.0
+500,semantic_faiss,"What are small language models, and what kinds of tasks are they designed for?",5,0.03807769999548327,5,True,1.0,1.0,1.0
+500,keyword_bm25,"What are small language models, and what kinds of tasks are they designed for?",5,0.00400769998668693,5,True,1.0,0.4,0.3333333333333333
+500,semantic_faiss,"What benefits of SLMs are described for limited-resource devices, privacy, customization, and cost?",5,0.04790089999733027,5,True,1.0,1.0,1.0
+500,keyword_bm25,"What benefits of SLMs are described for limited-resource devices, privacy, customization, and cost?",5,0.003445599999395199,5,True,1.0,1.0,1.0
+500,semantic_faiss,"How do pruning, quantization, and knowledge distillation reduce or compress language models?",5,0.042114500000025146,5,True,1.0,0.8,1.0
+500,keyword_bm25,"How do pruning, quantization, and knowledge distillation reduce or compress language models?",5,0.0036034999939147383,5,True,1.0,0.8,1.0
+1000,semantic_faiss,Which ethical concerns in conversational AI are identified in the lecture?,5,0.03145399999630172,5,True,1.0,0.4,1.0
+1000,keyword_bm25,Which ethical concerns in conversational AI are identified in the lecture?,5,0.0032498999935342,5,True,1.0,0.8,1.0
+1000,semantic_faiss,"How does the lecture define bias, and how can it affect users with regional accents?",5,0.036897900004987605,5,True,1.0,1.0,1.0
+1000,keyword_bm25,"How does the lecture define bias, and how can it affect users with regional accents?",5,0.0033916000102180988,5,True,1.0,0.4,1.0
+1000,semantic_faiss,Why can a lack of transparency and interpretability reduce trust and accountability in AI systems?,5,0.03258749999804422,5,True,1.0,0.6,1.0
+1000,keyword_bm25,Why can a lack of transparency and interpretability reduce trust and accountability in AI systems?,5,0.0033029000042006373,5,True,1.0,0.8,1.0
+1000,semantic_faiss,Why are traditional classification metrics such as accuracy difficult to apply to generative language model outputs?,5,0.038660900012473576,5,True,1.0,0.6,1.0
+1000,keyword_bm25,Why are traditional classification metrics such as accuracy difficult to apply to generative language model outputs?,5,0.0032482999959029257,5,True,1.0,0.2,1.0
+1000,semantic_faiss,"Which evaluation approaches are presented, and how does human evaluation relate to automated evaluation?",5,0.03646640000806656,5,True,1.0,1.0,1.0
+1000,keyword_bm25,"Which evaluation approaches are presented, and how does human evaluation relate to automated evaluation?",5,0.003153600002406165,5,True,1.0,1.0,1.0
+1000,semantic_faiss,Why might general benchmarks fail to measure performance for a specific LLM product use case?,5,0.02894699999887962,5,True,1.0,0.8,1.0
+1000,keyword_bm25,Why might general benchmarks fail to measure performance for a specific LLM product use case?,5,0.0032982999982777983,5,True,1.0,0.6,1.0
+1000,semantic_faiss,"What are small language models, and what kinds of tasks are they designed for?",5,0.03134880001016427,5,True,1.0,1.0,1.0
+1000,keyword_bm25,"What are small language models, and what kinds of tasks are they designed for?",5,0.0024021999997785315,5,True,1.0,0.4,0.3333333333333333
+1000,semantic_faiss,"What benefits of SLMs are described for limited-resource devices, privacy, customization, and cost?",5,0.03190859999449458,5,True,1.0,1.0,1.0
+1000,keyword_bm25,"What benefits of SLMs are described for limited-resource devices, privacy, customization, and cost?",5,0.002928400004748255,5,True,1.0,1.0,1.0
+1000,semantic_faiss,"How do pruning, quantization, and knowledge distillation reduce or compress language models?",5,0.027299599998514168,5,True,1.0,0.8,1.0
+1000,keyword_bm25,"How do pruning, quantization, and knowledge distillation reduce or compress language models?",5,0.0029929000011179596,5,True,1.0,0.8,1.0

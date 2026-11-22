@@ -1,0 +1,65 @@
+[
+  {
+    "question": "Which ethical concerns in conversational AI are identified in the lecture?",
+    "expected_sources": [
+      "Lecture 11 - From Bias to Guardrails - Building Responsible Conversational AI (1).pdf"
+    ],
+    "expected_pages": []
+  },
+  {
+    "question": "How does the lecture define bias, and how can it affect users with regional accents?",
+    "expected_sources": [
+      "Lecture 11 - From Bias to Guardrails - Building Responsible Conversational AI (1).pdf"
+    ],
+    "expected_pages": []
+  },
+  {
+    "question": "Why can a lack of transparency and interpretability reduce trust and accountability in AI systems?",
+    "expected_sources": [
+      "Lecture 11 - From Bias to Guardrails - Building Responsible Conversational AI (1).pdf"
+    ],
+    "expected_pages": []
+  },
+  {
+    "question": "Why are traditional classification metrics such as accuracy difficult to apply to generative language model outputs?",
+    "expected_sources": [
+      "Lecture 12 - Evaluation metrics (2).pdf"
+    ],
+    "expected_pages": []
+  },
+  {
+    "question": "Which evaluation approaches are presented, and how does human evaluation relate to automated evaluation?",
+    "expected_sources": [
+      "Lecture 12 - Evaluation metrics (2).pdf"
+    ],
+    "expected_pages": []
+  },
+  {
+    "question": "Why might general benchmarks fail to measure performance for a specific LLM product use case?",
+    "expected_sources": [
+      "Lecture 12 - Evaluation metrics (2).pdf"
+    ],
+    "expected_pages": []
+  },
+  {
+    "question": "What are small language models, and what kinds of tasks are they designed for?",
+    "expected_sources": [
+      "Lecture 13 - SLMs  Agents.pdf"
+    ],
+    "expected_pages": []
+  },
+  {
+    "question": "What benefits of SLMs are described for limited-resource devices, privacy, customization, and cost?",
+    "expected_sources": [
+      "Lecture 13 - SLMs  Agents.pdf"
+    ],
+    "expected_pages": []
+  },
+  {
+    "question": "How do pruning, quantization, and knowledge distillation reduce or compress language models?",
+    "expected_sources": [
+      "Lecture 13 - SLMs  Agents.pdf"
+    ],
+    "expected_pages": []
+  }
+]
